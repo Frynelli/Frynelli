@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frynelli
-- 👀 I’m interested in becoming a web developer 
-- 🌱 I’m currently learning html and css
+- 👀 I’m a front end developer 
+- 🌱 working with react/ javascript/ html/ css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
